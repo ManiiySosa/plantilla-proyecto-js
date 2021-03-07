@@ -3,4 +3,4 @@
 
 Image:
 
-![](C:\Users\PC\Documents\Maniiy\img/image2.png)
+![Alt text](C:\Users\PC\Documents\Maniiy\img/image 2.png?raw=true "Title")
